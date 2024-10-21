@@ -177,7 +177,7 @@ let b:current_syntax = "wannier"
 hi def link wanNumber   Constant
 hi def link wanKey      Statement
 hi def link wanString   Type
-hi def link wanBoolean  PreProc
+hi def link wanBoolean  Special
 hi def link wanNameDesc PreProc
 hi def link wanComment  Comment
 
